@@ -6,6 +6,7 @@ import { RiCopyrightFill } from 'react-icons/ri'
 function App() {
   return (
     <div className="App">
+      Website in development
       <header className="App-header">
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
         <RiCopyrightFill className="App-logo" />
